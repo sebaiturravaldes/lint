@@ -1,0 +1,39 @@
+{
+  "name": "eslint-config-lint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "prettier.config.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siturra/lint.git"
+  },
+  "keywords": [
+    "lint",
+    "eslint",
+    "eslintconfig",
+    "prettier"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siturra/lint/issues"
+  },
+  "homepage": "https://github.com/siturra/lint#readme",
+  "peerDependencies": {
+    "eslint": "^8.2.0",
+    "prettier": "^2.4.1",
+    "eslint-plugin-react": "^7.26.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-plugin-react": "^7.26.1",
+    "prettier": "^2.4.1"
+  }
+}
